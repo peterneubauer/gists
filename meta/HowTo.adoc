@@ -30,9 +30,16 @@ When using Math formulas, put them into a source block using LaTex syntax. The f
 4. \(x = {-b \pm \sqrt{b^2-4ac} \over 2a}\)
 <br/>
 
-5. \(\sin^{-1} \theta\) \(\int_a^b f(x)~dx\) \(\begin\{matrix} a & b \\ c & d \end\{matrix}\)
+5. \(\sin^{-1} \theta\) 
+<br/>
 
-\(\sum\limits_{i=1}^n X_i\)
+6. \(\int_a^b f(x)~dx\)
+<br/>
+
+7.\(\sum\limits_{i=1}^n X_i\)
+<br/>
+
+
 ++++
 
 
