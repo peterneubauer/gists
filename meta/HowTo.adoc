@@ -158,7 +158,7 @@ See http://asciidoctor.org/docs/asciidoc-quick-reference/[AsciiDoc Quick Referen
 
 Mathematical formulas:
 
-When using Math formulas, put them into a source block using LaTex syntax with `\(` and `\)` start and end delimiters.
+When using Math formulas, put them into a source block using LaTex syntax with `\(` and `\)` start and end delimiters, encapsulated in Asciidoc source blocks.
 The formulas are rendered through http://www.mathjax.org/demos/tex-samples/[MathJAX], supported commands are http://docs.mathjax.org/en/latest/tex.html#supported-latex-commands[here].
 
  ++++
@@ -198,6 +198,4 @@ Below are some more examples.
 
 7.\(\sum\limits_{i=1}^n X_i\)
 <br/>
-
-
 ++++
