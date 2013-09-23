@@ -14,9 +14,6 @@ Read below to get the full details.
 When using Math formulas, put them into a source block using LaTex syntax. The formulas are rendered through http://www.mathjax.org/demos/tex-samples/[MathJAX], supported commands are http://docs.mathjax.org/en/latest/tex.html#supported-latex-commands[here].
 
 ++++
-
-\(\begin{vmatrix}1 & 0\end{vmatrix}\)
-
 1. 
 \(
 \begin{equation}
@@ -31,7 +28,11 @@ When using Math formulas, put them into a source block using LaTex syntax. The f
 
 <br/>
 4. \(x = {-b \pm \sqrt{b^2-4ac} \over 2a}\)
-
+<br/>
+++++
+++++
+hej
+5. \(\begin\{vmatrix}1 & 2\end\{vmatrix}\)
 ++++
 
 
