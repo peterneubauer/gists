@@ -11,7 +11,7 @@ Click on the Page Source button in the menu to see the source for this GraphGist
 Read below to get the full details.
 
 
-When 
+When using Math formulas, put them into a source block using LaTex syntax. The formulas are rendered through MathJAX, supported commands are http://docs.mathjax.org/en/latest/tex.html#supported-latex-commands[here].
 
 ++++
 1. 
@@ -34,8 +34,10 @@ When
 \[ \left( \begin{array}{ccc}
 a & b & c \\
 d & e & f \\
-g & h & i \end{array} \right)\] 
+g & h & i \end{array} \right)\]
+\)
 <br/>
+/(
 \[ \chi(\lambda) = \left| \begin{array}{ccc}
 \lambda - a & -b & -c \\
 -d & \lambda - e & -f \\
