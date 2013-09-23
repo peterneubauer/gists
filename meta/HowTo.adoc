@@ -31,6 +31,8 @@ When using Math formulas, put them into a source block using LaTex syntax. The f
 <br/>
 
 5. \(\sin^{-1} \theta\) \(\int_a^b f(x)~dx\)
+
+\(\sum\limits_{i=1}^n X_i\)
 ++++
 
 
