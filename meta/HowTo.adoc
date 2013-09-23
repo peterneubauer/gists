@@ -29,10 +29,8 @@ When using Math formulas, put them into a source block using LaTex syntax. The f
 <br/>
 4. \(x = {-b \pm \sqrt{b^2-4ac} \over 2a}\)
 <br/>
-++++
-++++
-hej
-5. \(\begin\{vmatrix}1 & 2\end\{vmatrix}\)
+
+5. \($\begin\{matrix\} a & b \\ c & d \end\{matrix\}\)
 ++++
 
 
