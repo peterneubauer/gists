@@ -27,10 +27,9 @@ When using Math formulas, put them into a source block using LaTex syntax. The f
 2. \(ax^2 + bx + c \ne 0\) 
 
 <br/>
-4. \(x = {-b \pm \sqrt{b^2-4ac} \over 2a}.\)
+4. \(x = {-b \pm \sqrt{b^2-4ac} \over 2a}\)
+5. \(\begin{vmatrix}1 & 0\end{vmatrix}\)
 
-5. 
-\(\begin{vmatrix}1 & 0\end{vmatrix}\)
 <br/>
 6. 
 
