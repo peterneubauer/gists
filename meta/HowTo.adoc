@@ -30,14 +30,18 @@ When using Math formulas, put them into a source block using LaTex syntax. The f
 4. \(x = {-b \pm \sqrt{b^2-4ac} \over 2a}.\)
 
 <br/>
-5. \(
+5. 
+
+\(
 \[ \left( \begin{array}{ccc}
 a & b & c \\
 d & e & f \\
 g & h & i \end{array} \right)\]
 \)
 <br/>
-/(
+6. 
+
+\(
 \[ \chi(\lambda) = \left| \begin{array}{ccc}
 \lambda - a & -b & -c \\
 -d & \lambda - e & -f \\
