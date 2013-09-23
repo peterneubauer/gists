@@ -14,16 +14,22 @@ Read below to get the full details.
 When 
 
 ++++
-This is LaTex markup \(ax^2 + bx + c = 0\) 
+1. 
+\(
+\begin{matrix}
+a & b\cr
+c & d
+\end{matrix}
+\)
+<br/>
+2. \(ax^2 + bx + c = 0\) 
 
-and they are
+<br/>
 
-\(\def\specialFrac#1#2{\frac{x + #1}{y + #2}}
-\specialFrac{7}{z+3}\)  
+3. $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
-and $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
-
-\(x = {-b \pm \sqrt{b^2-4ac} \over 2a}.\)
+<br/>
+4. \(x = {-b \pm \sqrt{b^2-4ac} \over 2a}.\)
 ++++
 
 
