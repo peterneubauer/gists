@@ -16,10 +16,12 @@ When
 ++++
 1. 
 \(
-\begin{matrix}
-a & b\cr
-c & d
-\end{matrix}
+\begin{equation}
+\left[
+{\bf X} + {\rm a} \ \geq\
+\underline{\hat a} \sum_i^N \lim_{x \rightarrow k} \delta C
+\right]
+\end{equation}
 \)
 <br/>
 2. \(ax^2 + bx + c \ne 0\) 
