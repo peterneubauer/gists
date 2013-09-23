@@ -1,6 +1,6 @@
 = How to create a GraphGist
 
-image:http://yuml.me/diagram/scruffy/class/[Order]-billing%20%3E[Address%7Cname=hej],%20[Order]-shipping%20%3E[Address],[Order]-has%3E[Item][test]
+image::http://yuml.me/diagram/scruffy/class/[Order]-billing%20%3E[Address%7Cname=hej],%20[Order]-shipping%20%3E[Address],[Order]-has%3E[Item][test]
 
 You create a GraphGist by creating a https://gist.github.com/[GitHub Gist] in http://asciidoctor.org/docs/asciidoc-quick-reference/[AsciiDoc] and enter the URL to it in the form on this page.
 Alternatively, you can put an AsciiDoc document in https://www.dropbox.com/[Dropbox] and enter the public URL in the form.
