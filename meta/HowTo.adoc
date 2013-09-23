@@ -28,6 +28,21 @@ When
 
 <br/>
 4. \(x = {-b \pm \sqrt{b^2-4ac} \over 2a}.\)
+
+<br/>
+5. \(
+\emph{characteristic polynomial} \(\chi(\lambda)\) of the
+\(3 \times 3\)~matrix
+\[ \left( \begin{array}{ccc}
+a & b & c \\
+d & e & f \\
+g & h & i \end{array} \right)\] 
+is given by the formula
+\[ \chi(\lambda) = \left| \begin{array}{ccc}
+\lambda - a & -b & -c \\
+-d & \lambda - e & -f \\
+-g & -h & \lambda - i \end{array} \right|.\] 
+\)
 ++++
 
 
