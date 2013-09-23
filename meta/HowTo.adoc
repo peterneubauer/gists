@@ -11,7 +11,7 @@ Click on the Page Source button in the menu to see the source for this GraphGist
 Read below to get the full details.
 
 
-When using Math formulas, put them into a source block using LaTex syntax. The formulas are rendered through MathJAX, supported commands are http://docs.mathjax.org/en/latest/tex.html#supported-latex-commands[here].
+When using Math formulas, put them into a source block using LaTex syntax. The formulas are rendered through http://www.mathjax.org/demos/tex-samples/[MathJAX], supported commands are http://docs.mathjax.org/en/latest/tex.html#supported-latex-commands[here].
 
 ++++
 1. 
@@ -33,10 +33,11 @@ When using Math formulas, put them into a source block using LaTex syntax. The f
 5. 
 
 \(
-\[ \left( \begin{array}{ccc}
-a & b & c \\
-d & e & f \\
-g & h & i \end{array} \right)\]
+\mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix}
+\mathbf{i} & \mathbf{j} & \mathbf{k} \\
+\frac{\partial X}{\partial u} &  \frac{\partial Y}{\partial u} & 0 \\
+\frac{\partial X}{\partial v} &  \frac{\partial Y}{\partial v} & 0
+\end{vmatrix}  
 \)
 <br/>
 6. 
