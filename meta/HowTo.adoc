@@ -10,6 +10,10 @@ They are:  +//console+ for a query console; +//hide+, +//setup+ and +//output+ t
 Click on the Page Source button in the menu to see the source for this GraphGist.
 Read below to get the full details.
 
+
+When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+
 == Include a query console
 
 +//console+
