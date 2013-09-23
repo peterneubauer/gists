@@ -171,6 +171,8 @@ becomes
 \(ax^2 + bx + c \ne 0\)
 ++++
 
+Below are some more examples.
+
 ++++
 1. 
 \(
