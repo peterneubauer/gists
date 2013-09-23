@@ -13,12 +13,8 @@ Read below to get the full details.
 
 When 
 
-++++
-<div id="matjax">
-$a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
-</div>
-++++
+\forall x \in X, \quad \exists y \leq \epsilon
+
 
 == Include a query console
 
